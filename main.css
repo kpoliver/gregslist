@@ -31,6 +31,10 @@ body div {
 	height: 30px;
 	border: solid 1px;
 }
+#search img{
+	height: 30px;
+	border: solid 1px;
+}
 #pages {
 	padding-bottom: 80px;
 }
